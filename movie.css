@@ -1,0 +1,30 @@
+header {background-color: white;}
+
+footer {background-color: red;
+        color: black;
+        font-size: small;
+        font-style: italic;}
+
+nav {text-align: center;
+     font-weight: bold;
+        background-color: white;
+        padding: 1em}
+
+dt {font-weight: bold;
+    color: black;}
+
+#logo {height: 150px;
+        background-image: url(logo.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-color: white;}
+
+main {background-color: white;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;}
+
+
+
+body {background-color: red;}
+
+h2 {text-align: center;}
